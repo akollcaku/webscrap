@@ -1,0 +1,76 @@
+[
+    {
+        "title": "Raporti i ngjarjeve, 10 janar 2025",
+        "location": "Vendodhja nuk u gjet",
+        "weather": "Vendodhja nuk ekziston"
+    },
+    {
+        "title": "Tiranë/Informacion shtesë",
+        "location": "Tiranë",
+        "weather": {
+            "temperature": 6.51,
+            "description": "moderate rain"
+        }
+    },
+    {
+        "title": "DVP Korçë, gjatë 24 orëve të fundit",
+        "location": "Korçë",
+        "weather": {
+            "temperature": -1.72,
+            "description": "snow"
+        }
+    },
+    {
+        "title": "Drejtoria Vendore e Policisë Fier, gjatë 24 orëve të fundit",
+        "location": "Fier",
+        "weather": {
+            "temperature": 4.89,
+            "description": "heavy intensity rain"
+        }
+    },
+    {
+        "title": "Drejtoria Vendore e Policisë Elbasan, gjatë 24 orëve të fundit",
+        "location": "Elbasan",
+        "weather": {
+            "temperature": 2.31,
+            "description": "moderate rain"
+        }
+    },
+    {
+        "title": "DVP Tiranë, gjatë 24 orëve të fundit",
+        "location": "Tiranë",
+        "weather": {
+            "temperature": 6.51,
+            "description": "moderate rain"
+        }
+    },
+    {
+        "title": "Policia, me dyer të hapura për nxënësit dhe qytetarët, në kuadër të 112-vjetorit të krijimit të saj",
+        "location": "Vendodhja nuk u gjet",
+        "weather": "Vendodhja nuk ekziston"
+    },
+    {
+        "title": "Durrës – Qëlloi me armë zjarri në ajër, gjatë një konflikti për motive të dobëta, me një bashkëmoshatar të tij, kapet dhe vihet në pranga 17-vjeçari",
+        "location": "Durrës",
+        "weather": {
+            "temperature": 7.1,
+            "description": "overcast clouds"
+        }
+    },
+    {
+        "title": "DVP Korçë – Finalizohet operacioni policor i koduar “Crackman”",
+        "location": "Korçë",
+        "weather": {
+            "temperature": -1.72,
+            "description": "snow"
+        }
+    },
+    {
+        "title": "DVP Durrës – Zbulohet një ambient i marrë me qira, i përshtatur për ushtrimin e prostitucionit",
+        "location": "Durrës",
+        "weather": {
+            "temperature": 7.1,
+            "description": "overcast clouds"
+        }
+    }
+]
