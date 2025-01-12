@@ -1,0 +1,11 @@
+title,location,weather
+"Raporti i ngjarjeve, 10 janar 2025",Vendodhja nuk u gjet,Vendodhja nuk ekziston
+Tiranë/Informacion shtesë,Tiranë,"{'temperature': 6.51, 'description': 'moderate rain'}"
+"DVP Korçë, gjatë 24 orëve të fundit",Korçë,"{'temperature': -1.72, 'description': 'snow'}"
+"Drejtoria Vendore e Policisë Fier, gjatë 24 orëve të fundit",Fier,"{'temperature': 4.89, 'description': 'heavy intensity rain'}"
+"Drejtoria Vendore e Policisë Elbasan, gjatë 24 orëve të fundit",Elbasan,"{'temperature': 2.31, 'description': 'moderate rain'}"
+"DVP Tiranë, gjatë 24 orëve të fundit",Tiranë,"{'temperature': 6.51, 'description': 'moderate rain'}"
+"Policia, me dyer të hapura për nxënësit dhe qytetarët, në kuadër të 112-vjetorit të krijimit të saj",Vendodhja nuk u gjet,Vendodhja nuk ekziston
+"Durrës – Qëlloi me armë zjarri në ajër, gjatë një konflikti për motive të dobëta, me një bashkëmoshatar të tij, kapet dhe vihet në pranga 17-vjeçari",Durrës,"{'temperature': 7.1, 'description': 'overcast clouds'}"
+DVP Korçë – Finalizohet operacioni policor i koduar “Crackman”,Korçë,"{'temperature': -1.72, 'description': 'snow'}"
+"DVP Durrës – Zbulohet një ambient i marrë me qira, i përshtatur për ushtrimin e prostitucionit",Durrës,"{'temperature': 7.1, 'description': 'overcast clouds'}"
